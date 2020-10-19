@@ -1,10 +1,13 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll", ">= 3.8.5"
+gem "jekyll", "~> 4.2"
+
+gem "jekyll-scholar", git: 'https://github.com/inukshuk/jekyll-scholar.git'
+gem "jekyll-theme-clean-blog", git: 'https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git'
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-paginate", "~> 1.1.0"
+  gem "jekyll-feed"
+  gem "jekyll-paginate"
   gem "jekyll-sitemap"
 end
 
@@ -12,4 +15,4 @@ end
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm" if Gem.win_platform?

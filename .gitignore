@@ -1,5 +1,9 @@
+# automatically generated dirs.
 _site
-.sass-cache
-node_modules
+
+# automatically generated files
 Gemfile.lock
-*.gem
+.jekyll-cache
+
+# vscode settings
+.vscode
