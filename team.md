@@ -19,25 +19,18 @@ background: '/img/bg-about.jpg'
 
 ### 研究参加者 / Research Members
 
-##### 京都拠点 / Kyoto Base
-
 川節 拓実（京都大学） / Takumi Kawasetsu (Kyoto U.)
 
 郡司 芽久（東洋大学） / Megu Gunji (Toyo U.)
 
-##### 奈良拠点 / Nara Base
-
 角川 勇貴（奈良先端科学技術大学院大学） / Yuki Kadokawa (NAIST)
-
-##### 千葉拠点 / Chiba Base
 
 大西 祐輝（千葉工業大学） / Yuki Onishi (Chiba Tech)
 
 鈴木 雅大（東京大学） / Masahiro Suzuki (U. Tokyo)
 
-##### 大阪拠点 / Osaka Base
-
 堀井 隆斗（大阪大学） / Takato Horii (U. Osaka)
 
 Punpongsanon Parinya （埼玉大学） / Punpongsanon Parinya (Saitama U.)
 
+<!-- ### リサーチアシスタント / Research Assistants -->
