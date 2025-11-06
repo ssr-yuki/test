@@ -3,3 +3,12 @@
 ---
 
 @import "styles";
+
+// text color of nav-item
+#mainNav .navbar-nav > li.nav-item > a {
+    color: black;
+}
+
+#mainNav .navbar-nav > li.nav-item > a:hover {
+    color: gray;
+}
