@@ -35,6 +35,15 @@ layout: default
 
         {{ content }}
 
+        <!-- twitter -->
+        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <!-- facebook -->
+        <div id="fb-root"></div>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v10.0" nonce="dQotufLO"></script>
+        <div class="fb-share-button" data-href="{{ page.url }}" data-layout="button" data-size="small">
+          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}&src=sdkpreparse" class="fb-xfbml-parse-ignore">シェア</a>
+        </div>
+
         <hr>
 
         <div class="clearfix">
