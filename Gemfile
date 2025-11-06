@@ -11,6 +11,9 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 end
 
+# To avoid v1.93.3, causing errors on GitHub Action
+gem "sass-embedded", "<= 1.93.2"
+
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
