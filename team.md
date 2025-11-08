@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Team
-description: 
-background: '/img/bg-about.jpg'
+background: '/img/pneumatic_arm.png'
 ---
 
 ### 研究代表者 / Principal Investigator

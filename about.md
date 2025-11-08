@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About RAISE
-description: This is what I do.
-background: '/img/bg-about.jpg'
+background: '/img/pneumatic_arm.png'
 ---
 
 ## 研究代表挨拶
